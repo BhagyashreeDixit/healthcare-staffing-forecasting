@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+data/staffing_demand_raw.csv
+data/staffing_demand_features.csv
+models/saved/*.pkl
+Thumbs.db
+desktop.ini
